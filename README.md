@@ -1,3 +1,9 @@
+# Comandos para desarrollo 
+    
+    git clone --recursive  https://github.com/carlosandresggdesarrollo/omp_udg
+    cd /omp_udg/lib/pkp
+    git checkout udg-1_0
+    
 # Open Monograph Press
 
 > Open Monograph Press (OMP) has been developed by the Public Knowledge Project. For general information about OMP and other open research systems, visit the [PKP web site][pkp].
